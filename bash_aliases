@@ -1,3 +1,5 @@
 alias sl='ls'
 alias c='clear'
 alias clippy='pwd | xargs echo -n | xclip -selection clipboard'
+alias serial='sudo screen /dev/ttyUSB0 115200'
+alias fuck='sudo $(history -p !!)'
