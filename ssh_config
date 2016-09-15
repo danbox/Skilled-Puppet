@@ -1,0 +1,5 @@
+Host andromeda
+HostName andromeda
+IdentityFile ~/.ssh/AndromedaBuildKP4.pem
+User qbadmin
+
