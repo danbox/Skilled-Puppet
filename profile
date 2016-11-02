@@ -21,5 +21,5 @@ if [ -d "$HOME/bin" ] ; then
     PATH="$HOME/bin:$PATH"
 fi
 
-JAVA_HOME=/usr/local/jdk1.8.0.102/
+JAVA_HOME=/usr/local/jdk1.8.0.102
 COVERITY_ROOT=/home/danbox/coverity/cov-analysis-linux64-8.5.0/
