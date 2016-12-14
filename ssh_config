@@ -3,3 +3,8 @@ HostName andromeda
 IdentityFile ~/.ssh/AndromedaBuildKP4.pem
 User qbadmin
 
+Host aosp
+HostName 35.163.155.151
+IdentityFile ~/.ssh/AndromedaBuildKP4.pem
+User danbox
+
