@@ -1,1 +1,5 @@
 inoremap jk <ESC>
+inoremap JK <ESC>
+inoremap Jk <ESC>
+inoremap jK <ESC>
+
