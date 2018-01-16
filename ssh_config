@@ -8,3 +8,7 @@ HostName 35.163.155.151
 IdentityFile ~/.ssh/AndromedaBuildKP4.pem
 User danbox
 
+Host home
+HostName 67.190.107.225
+User danbox
+
