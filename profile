@@ -23,6 +23,8 @@ fi
 
 PATH=$PATH:~/coverity/cov-analysis-linux64-8.5.0/bin/
 
-JAVA_HOME=/usr/lib/jvm/java-1.8.0-openjdk-amd64
+#JAVA_HOME=/usr/lib/jvm/java-1.8.0-openjdk-amd64
 COVERITY_ROOT=/home/danbox/coverity/cov-analysis-linux64-8.5.0/
-ANDROID_SDK_ROOT=/home/danbox/android/sdk/
+ANDROID_SDK_ROOT=/home/danbox/android/sdk
+VISUAL=vim
+EDITOR=$VISUAL
