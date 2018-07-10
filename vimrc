@@ -1,7 +1,7 @@
 inoremap jk <Esc>
 set number
 
-colorscheme tayra
+"colorscheme tayra
 
 set tabstop=4
 set expandtab
